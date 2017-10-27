@@ -4,7 +4,7 @@ import sys
 
 print("Goodbye")
 print("Enter some numbers")
-
+print("d)
 
 
 out_of = int(sys.argv[1])
