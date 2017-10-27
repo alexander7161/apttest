@@ -2,6 +2,7 @@
 
 import sys
 
+print("hello")
 out_of = int(sys.argv[1])
 while 1:
     line = input()
