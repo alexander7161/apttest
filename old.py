@@ -1,8 +1,16 @@
 #! /usr/bin/env python3
 import sys
+
+
 print("Goodbye")
 print("Enter some numbers")
+
+
+
 out_of = int(sys.argv[1])
+
+
+
 while 1:
     line = input()
     total = 0
